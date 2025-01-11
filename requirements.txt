@@ -1,4 +1,6 @@
-streamlit
-jsonlib-python3
-deepface
-opencv-python-headless
+streamlit==1.22.0
+jsonlib-python3==1.6.1
+deepface==0.0.75
+opencv-python-headless==4.5.5.64
+keras==2.4.3
+retinaface==0.0.12
