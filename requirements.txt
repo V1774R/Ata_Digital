@@ -1,4 +1,3 @@
 streamlit
-jsonlib-python3
 deepface
 opencv-python-headless
