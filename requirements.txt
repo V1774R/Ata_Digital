@@ -2,3 +2,5 @@ streamlit
 jsonlib-python3
 deepface
 opencv-python-headless
+tensorflow==2.17.0
+tf-keras
